@@ -1,0 +1,14 @@
+# Core dependencies
+torch
+torchvision
+numpy
+scikit-learn
+scipy
+matplotlib
+tqdm
+Pillow
+requests
+
+# Optional components
+# functorch   # included in torch >= 1.13
+# pymoo       # used for multi-objective optimization
